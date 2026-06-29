@@ -1,6 +1,5 @@
 venv/
 .env
-data/marketing_campaign.csv
 __pycache__/
 *.pyc
 .DS_Store
